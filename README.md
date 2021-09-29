@@ -1,6 +1,7 @@
 ### Hi there 👋
  - I'm CNU student 
- - I'm currently learning 
+ - 🌱 I’m currently learning Computer_Network
+ - 📫 How to reach me: baesh0408@naver.com  and  instagram : bae_sii
 <!--
 **BAESI/BAESI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
