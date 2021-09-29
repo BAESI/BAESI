@@ -1,5 +1,5 @@
 ### Hi there 👋
- - I'm CNU student 
+ - 🔭 I’m a computer engineering student at Chungnam National University. 
  - 🌱 I’m currently learning Computer_Network
  - 📫 How to reach me: baesh0408@naver.com  and  instagram : bae_sii
 <!--
