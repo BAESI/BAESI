@@ -1,7 +1,7 @@
 ### Hi there  안녕하세요!👋
  - 🔭 I’m a computer engineering student at Chungnam National University. 
  - 🌱 I’m currently learning Computer_Network
- - 📫 How to reach me: baesh0408@naver.com  and  instagram : bae_sii
+ - 📫 How to reach me: baesh0408@naver.com
 <!--
 **BAESI/BAESI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
